@@ -10,3 +10,4 @@
 <hr>
 
 ### Output Demo
+![3D dice](https://user-images.githubusercontent.com/44550746/94330471-a722f800-ffe2-11ea-8992-aad3ef5c46f6.gif)
